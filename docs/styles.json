@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://exlinetr.github.io/bread/styles/stubble.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a short, evenly trimmed 'Stubble' beard with 3-day growth, a clean neck line, and sharp facial features, realistic photography.",
+    "name": {
+      "en": "Stubble",
+      "tr": "Kirli Sakal",
+      "de": "3-Tage-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/corporate_beard.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Corporate Beard' which is a neatly groomed full beard of short length with sharp cheek lines, in an office style, high quality portrait.",
+    "name": {
+      "en": "Corporate Beard",
+      "tr": "Kurumsal Sakal",
+      "de": "Business-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/verdi.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Verdi' beard style, which is a short rounded beard with a prominent, waxed curled handlebar mustache, for a sophisticated look, with detailed facial hair.",
+    "name": {
+      "en": "Verdi",
+      "tr": "Verdi",
+      "de": "Verdi-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/garibaldi.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Garibaldi' beard, featuring a wide and rounded bottom, full and natural growth, a connected thick mustache, and a rugged appearance.",
+    "name": {
+      "en": "Garibaldi",
+      "tr": "Garibaldi",
+      "de": "Garibaldi-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/bandholz.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Bandholz' beard, an extra long and full beard with massive volume and a naturally integrated mustache, for an epic beard style.",
+    "name": {
+      "en": "Bandholz",
+      "tr": "Bandholz",
+      "de": "Bandholz-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/chin_curtain.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Chin Curtain' beard, with hair along the jawline and chin, no mustache, and a clean-shaven upper lip, in a traditional style.",
+    "name": {
+      "en": "Chin Curtain",
+      "tr": "Çene Altı Sakalı",
+      "de": "Schifferkrause"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/balbo.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Balbo' beard, featuring a disconnected mustache and a wide chin beard, no sideburns, sharp edges, and modern styling.",
+    "name": {
+      "en": "Balbo",
+      "tr": "Balbo",
+      "de": "Balbo-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/goatee.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a classic 'Goatee', with hair only on the chin, clean-shaven cheeks and upper lip, for a minimalist facial hair style.",
+    "name": {
+      "en": "Goatee",
+      "tr": "Keçi Sakalı",
+      "de": "Ziegenbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/circle_beard.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a neatly trimmed 'Circle Beard', where the mustache and chin beard are joined to form a circle around the mouth.",
+    "name": {
+      "en": "Circle Beard",
+      "tr": "Tam Keçi Sakalı",
+      "de": "Rund-um-den-Mund-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/van_dyke.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to an artistic 'Van Dyke' beard, featuring a pointy chin beard and a detached sharp mustache, with clean-shaven cheeks.",
+    "name": {
+      "en": "Van Dyke",
+      "tr": "Van Dyke",
+      "de": "Van-Dyke-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/hollywoodian.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Hollywoodian' beard, which is a full beard on the jaw and chin with disconnected sideburns, in a vintage movie star style.",
+    "name": {
+      "en": "Hollywoodian",
+      "tr": "Hollywood Sakalı",
+      "de": "Hollywood-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/lumberjack.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a thick, full 'Lumberjack' beard, long and rugged, with an outdoorsy aesthetic and dense facial hair.",
+    "name": {
+      "en": "Lumberjack",
+      "tr": "Oduncu Sakalı",
+      "de": "Holzfäller-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/ducktail.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a well-groomed 'Ducktail' beard, a full beard tapering to a point at the chin, resembling a duck's tail.",
+    "name": {
+      "en": "Ducktail",
+      "tr": "Ördek Kuyruğu",
+      "de": "Entenschwanz-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/mutton_chops.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to classic 'Mutton Chops', which are long sideburns extending to the corners of the mouth, with a clean-shaven chin, in a 19th-century style.",
+    "name": {
+      "en": "Mutton Chops",
+      "tr": "Mutton Chops",
+      "de": "Koteletten"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/friendly_mutton_chops.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to 'Friendly Mutton Chops', which are large sideburns connected by a mustache, with a clean-shaven chin.",
+    "name": {
+      "en": "Friendly Mutton Chops",
+      "tr": "Birleşik Favori",
+      "de": "Backenbart mit Schnurrbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/handlebar.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Handlebar Mustache', featuring thick hair with long upwardly curved ends, for a vintage gentleman style.",
+    "name": {
+      "en": "Handlebar Mustache",
+      "tr": "Pala Bıyık",
+      "de": "Zwirbelbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/chevron.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Chevron' mustache, thick and wide, covering the top lip, in an iconic 80s style, for a masculine look.",
+    "name": {
+      "en": "Chevron",
+      "tr": "Chevron Bıyık",
+      "de": "Chevron-Schnurrbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/pencil_mustache.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a very narrow line of hair above the upper lip, a thin 'Pencil Mustache', with a clean-shaven face, for a classic vintage look.",
+    "name": {
+      "en": "Pencil Mustache",
+      "tr": "Kalem Bıyık",
+      "de": "Bleistiftbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/horseshoe.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Horseshoe' mustache, a thick mustache with vertical extensions growing down to the jawline, in a biker style.",
+    "name": {
+      "en": "Horseshoe",
+      "tr": "At Nalı Bıyık",
+      "de": "Hufeisen-Schnurrbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/english_mustache.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to an 'English Mustache', which is narrow and straight, extending horizontally from the center of the lip.",
+    "name": {
+      "en": "English Mustache",
+      "tr": "İngiliz Bıyığı",
+      "de": "Englischer Schnurrbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/painters_brush.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a thick and slightly rounded 'Painter's Brush' mustache, for a neat and clean aesthetic.",
+    "name": {
+      "en": "Painter's Brush",
+      "tr": "Ressam Bıyığı",
+      "de": "Malerpinsel-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/walrus.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to an extremely thick and bushy 'Walrus' mustache, drooping over the mouth, for a rugged look.",
+    "name": {
+      "en": "Walrus",
+      "tr": "Mors Bıyığı",
+      "de": "Walross-Schnurrbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/hungarian.jpg",
+    "prompt": "Updating the mustache style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a big and bushy 'Hungarian' mustache, pulled from the center and swept to the sides, for a grand appearance.",
+    "name": {
+      "en": "Hungarian",
+      "tr": "Macar Bıyığı",
+      "de": "Ungarischer Schnurrbart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/anchor.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to an 'Anchor Beard', which is a pointed chin beard combined with a pencil-thin mustache, forming an anchor shape.",
+    "name": {
+      "en": "Anchor Beard",
+      "tr": "Çapa Sakal",
+      "de": "Anker-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/soul_patch.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Soul Patch', a small patch of hair just below the lower lip, with a clean-shaven face, for a minimalist style.",
+    "name": {
+      "en": "Soul Patch",
+      "tr": "Soul Patch",
+      "de": "Fliege"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/boxed_beard.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Short Boxed Beard', a neatly trimmed full beard with defined rectangular borders, for a sharp appearance.",
+    "name": {
+      "en": "Short Boxed Beard",
+      "tr": "Kısa Boxed Sakal",
+      "de": "Boxed Beard"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/tapered_beard.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Tapered Beard', where facial hair fades from short sideburns to a fuller chin, in a professional fade style.",
+    "name": {
+      "en": "Tapered Beard",
+      "tr": "Tapered Sakal",
+      "de": "Verlaufender Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/beardstache.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Beardstache', featuring a heavy prominent mustache paired with a thick stubble beard, for a modern trendy look.",
+    "name": {
+      "en": "Beardstache",
+      "tr": "Bıyık ve Kirli Sakal",
+      "de": "Beardstache"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/sparrow.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to 'The Sparrow' beard, which is a mustache combined with a soul patch and two braided chin strands, in a pirate-inspired look.",
+    "name": {
+      "en": "The Sparrow",
+      "tr": "Sparrow Sakalı",
+      "de": "Sparrow-Bart"
+    }
+  },
+  {
+    "image": "https://exlinetr.github.io/bread/styles/petit_goatee.jpg",
+    "prompt": "Updating the beard style of the person in the image while maintaining their current facial features, expression, and the overall composition of the photo, to a 'Petit Goatee', which is a very small and narrow patch of hair at the center of the chin.",
+    "name": {
+      "en": "Petit Goatee",
+      "tr": "Küçük Keçi Sakalı",
+      "de": "Kleiner Ziegenbart"
+    }
+  }
+]
